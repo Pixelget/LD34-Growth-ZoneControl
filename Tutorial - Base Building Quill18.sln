@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial - Base Building Quill18.CSharp", "Tutorial - Base Building Quill18.CSharp.csproj", "{039C0561-A29B-DA65-7260-12110ED4E666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039C0561-A29B-DA65-7260-12110ED4E666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039C0561-A29B-DA65-7260-12110ED4E666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039C0561-A29B-DA65-7260-12110ED4E666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039C0561-A29B-DA65-7260-12110ED4E666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
